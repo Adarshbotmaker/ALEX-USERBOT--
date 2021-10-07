@@ -51,5 +51,5 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 
 
-[🌀GENRATE STRING SESSION 🌀](https://t.me/SessionGeneratorBot)
+[🌀GENRATE STRING SESSION 🌀](https://replit.com/@ManishRao5/ALEX-USERBOT-1#main.py)
 

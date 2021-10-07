@@ -18,7 +18,7 @@
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 H1M4N5HU0P
+Copyright (C) 2021 ALEX
 
 Poject [ALEX USERBOT](https://github.com/Adarshbotmaker/ALEX-USERBOT--) is free software: you can redistribute it and/or modify
 

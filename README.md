@@ -20,7 +20,7 @@
 
 Copyright (C) 2021 H1M4N5HU0P
 
-Poject [MAFIABOT](https://github.com/H1M4N5HU0P/MAFIA-BOT) is free software: you can redistribute it and/or modify
+Poject [ALEX USERBOT](https://github.com/Adarshbotmaker/ALEX-USERBOT--) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 

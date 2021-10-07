@@ -46,3 +46,10 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 ❤️CREDITS❤️
 
    [❤️MAFIA USERBOT❤️](https://github.com/MafiaBotOP)
+
+🧞‍♂ Telethon String Session🧞‍♂ 
+
+
+
+[🌀GENRATE STRING SESSION 🌀](https://t.me/SessionGeneratorBot)
+

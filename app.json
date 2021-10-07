@@ -1,7 +1,7 @@
 {
   "name": "Alex-Userbot",
-  "description": "The ⫷༒₳Đ₳ⱤŞⱧ༒⫸ made by  special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @MafiaBot_Support",
-  "logo": " https://telegra.ph/file/5a2e8c2e89b79bec1ed2c.jpg",
+  "description": "ALEX USERBOT MADE BY TEAM ALEX THANKS PYTHON USERBOT AND DHURMABOY
+  "logo": " https://telegra.ph/file/bf4f026de24c344a9a79d.jpg
     "keywords": [
     "telegram",
     "userbot",
@@ -9,10 +9,10 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/H1M4N5HU0P/MAFIABOT/",
-  "website": "https://github.com/H1M4N5HU0P/MAFIABOT/",
-  "success_url": "https://t.me/MAFIABOT_SUPPORT",
-  "env": {
+  "repository": 
+  "website": "",
+  "success_url": ,
+  "env": 
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
       "value": "ANYTHING"
@@ -24,11 +24,11 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name or Username like @H1M4N5HU0P. By default it is Mafia User",
-      "value": "@MafiaBot_Support",
+      "value": "@ALEX_USERBOTS
       "required": false
     },
     "ABUSE": {
-      "description": "Leave it blank if you dont want Profanity in MafiaBot. Else Fill ON.",
+      "description": "Leave it blank if you dont want Profanity in ALEX USERBOT. Else Fill ON.",
       "value": "",
       "required": false
     },    
@@ -39,17 +39,17 @@
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .mafia command.",
-      "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
+      "value": https://telegra.ph/file/bf4f026de24c344a9a79d.jpg
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈LEGEND'S SAY'S TO MAFIABOT😈",
+      "value": "😈LEGEND'S SAY'S TO ALEX USERBOT😈",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
+      "value": "https://telegra.ph/file/bf4f026de24c344a9a79d.jpg
       "required": true
     },
     "CUSTOM_PMPERMIT": {
@@ -59,7 +59,7 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
-      "value": "2184829"
+      "value": 
     },
     "SUDO_USERS": {
       "description": "Enter your friends user id to to give him bot sudo access",
@@ -77,7 +77,7 @@
     },
     "MAFIABOT_LOGGER": {
       "description": "Create a private channel/group add rose then type /id in group.",
-      "value": "-1001174481876"
+      "value": "
     },
     "STRING_SESSION": {
       "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
@@ -85,30 +85,30 @@
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API.Required for updater to work.",
-      "value": "22c9f205-3860-48e7-a1e5-457c15480877",
+      "value": "
       "required": true
     },
     "HEROKU_APP_NAME": {
       "description": "The Value of App Name you filled in right on top.Required for updater to work.",
-      "value": "enteryourappname",
+      "value": "ALEX USERBOT",
       "required": true
     },
     "TG_BOT_TOKEN_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
-      "value": "1445762068:AAG_-327E_oIzta6TGGbdc6-RqePyM8fyR8"
+      "value": "
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
-      "value": "@MAFIA_PUBLIC_bot"
+      "value": "@ALEX_USERBOTS
     },
     "HELP_PIC": {
       "description": "Put link of pic or gif to show your .help menu provider cool",
-      "value": "https://telegra.ph/file/2ed4a8dcd1cea1b38b113.mp4",
+      "value": "https://telegra.ph/file/bf4f026de24c344a9a79d.jpg",
       "required": false 
     },
     "EMOJI_IN_HELP": {
       "description": "Put here your favorite emoji to make your bot cool.",
-      "value": "⚡",
+      "value": " 😡",
       "required": true
     },
     "PM_DATA": {

@@ -23,7 +23,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @H1M4N5HU0P. By default it is Mafia User",
+      "description": "Fill your Full name or Username like @ALEX_USEEBOTS. By default it is ALEX User",
       "value": "@ALEX_USERBOTS
       "required": false
     },

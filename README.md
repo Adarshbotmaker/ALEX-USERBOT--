@@ -7,7 +7,7 @@
     - `API_HASH`:   You can get this value from https://my.telegram.org
 - The userbot will not work without setting the mandatory vars.
 
-[![DEPLOY TO HEREKOU] {https://heroku.com/deploy?template=https://github.com/LEGEND-LX/Alex-userbot}
+[![DEPLOY TO HEREKOU] {soon}
 
 
 </details>

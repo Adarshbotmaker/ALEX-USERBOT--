@@ -11,7 +11,7 @@
   ],
   "repository": 
   "website": "",
-  "success_url": , 
+  "success_url": , https://www.python.org/downloads/release/python-360
   "env": 
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -30,7 +30,7 @@
     "ABUSE": {
       "description": "Leave it blank if you dont want Profanity in ALEX USERBOT. Else Fill ON.",
       "value": "",
-      "required": false
+      "required": false 
     },    
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .mafia Command.",

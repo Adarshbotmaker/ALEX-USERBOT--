@@ -7,11 +7,11 @@
     "userbot", 
     "plugin",
     "modular",
-    "productivity"
+    "productivity" https://docs.github.com/rest/reference/repos#get-repository-content
   ],
   "repository": https://github.com/Adarshbotmaker/ALEX-USERBOT--
   "website": "", 
-  "success_url": , https://www.python.org/downloads/release/python-360
+  "success_url": , 
   "env": 
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",

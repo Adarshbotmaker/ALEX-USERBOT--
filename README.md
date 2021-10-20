@@ -9,7 +9,7 @@ ALEX-UB    (userbot) made by @alexuserbot_yourdad. Supported by respective hellb
 
 # The owner would not be responsible for any kind of bans due to the bot...
 
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Adarshbotmaker/ALEX-USERBOT--)
 <details>
 
   

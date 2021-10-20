@@ -17,11 +17,7 @@ ALEX-UB    (userbot) made by @alexuserbot_yourdad. Supported by respective hellb
 
 <details>
 
-  <summary> • FOR ANY QUERY • </summary>
-<h2 align="center"> <a href="https://t.me/alex_userbotsupport">☢️JOIN MAFIABOT SUPPORT☢️</a></h2>
-
-</details>
-
+  
 
 # FORK AT YOUR OWN RISK
 

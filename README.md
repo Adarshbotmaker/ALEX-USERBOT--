@@ -16,16 +16,5 @@ ALEX-UB    (userbot) made by @alexuserbot_yourdad. Supported by respective hellb
 
 # FORK AT YOUR OWN RISK
 
-<details>
 
-  <summary> • INSTALLING • </summary>
-
-### The Easy Way
-
-<h4>⚜️ DEPLOY TO HEROKU ⚜️</h4>
-  
-  [![Deploy] SOON
-
-
-</details>
 

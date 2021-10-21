@@ -10,11 +10,11 @@ ALEX- (userbot) made by @alexuserbot_yourdad. Supported by respective hellbot ow
 # The owner would not be responsible for any kind of bans due to the bot...
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Adarshbotmaker/ALEX-USERBOT--)
-<details❤️>
+
 
  
 
 # FORK AT YOUR OWN RISK
 
 
-
+[![RUN ON REPL](https://replit.com/@ManishRao5/ALEX-USERBOT#main.py)

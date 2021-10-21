@@ -1,7 +1,7 @@
 {
   "name": "Alex-Userbot",
-  "description": "ALEX USERBOT MADE BY TEAM ALEX THANKS PYTHON USERBOT AND DHURMABOY
-  "logo": " https://telegra.ph/file/bf4f026de24c344a9a79d.jpg
+  "description": "ALEX USERBOT MADE BY TEAM ALEX THANKS PYTHON USERBOT AND DHURMABOY"
+  "logo": " https://telegra.ph/file/bf4f026de24c344a9a79d.jpg"
     "keywords": [
     "telegram",https://t.me/alex_userbot
     "userbot", 
@@ -10,8 +10,8 @@
     "productivity"
   ],
   "repository": https://github.com/Adarshbotmaker/ALEX-USERBOT--
-  "website": "", 
-  "success_url": , https://www.python.org/downloads/release/python-360
+  "website": "https://github.com/Adarshbotmaker/ALEX-USERBOT--", 
+  "success_url": , https://www.python.org/downloads/release/python-360"
   "env": 
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",

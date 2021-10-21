@@ -1,18 +1,18 @@
 {
-  "name": "Alex-Userbot",
-  "description": "ALEX USERBOT MADE BY TEAM ALEX THANKS PYTHON USERBOT AND DHURMABOY"
-  "logo": " https://telegra.ph/file/bf4f026de24c344a9a79d.jpg"
+  "name": "𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃",
+  "description": "The MafiaBot made by @H1M4N5HU0P special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @MafiaBot_Support",
+  "logo": "https://telegra.ph/file/75229ba894ef780332815.jpg",
     "keywords": [
-    "telegram",https://t.me/alex_userbot"
-    "userbot", 
+    "telegram",
+    "userbot",
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": https://github.com/Adarshbotmaker/ALEX-USERBOT--"
-  "website": "https://github.com/Adarshbotmaker/ALEX-USERBOT--", 
-  "success_url": , https://www.python.org/downloads/release/python-360"
-  "env": 
+  "repository": "https://github.com/H1M4N5HU0P/MAFIABOT/",
+  "website": "https://github.com/H1M4N5HU0P/MAFIABOT/",
+  "success_url": "https://t.me/MAFIABOT_SUPPORT",
+  "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
       "value": "ANYTHING"
@@ -23,43 +23,43 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like ALEX USERBOT ❤️ IS ON FIRE. By default it is ALEX User",
-      "value": " ALEX USERBOT ❤️ IS ON FIRE
-      "required": true
+      "description": "Fill your Full name or Username like @H1M4N5HU0P. By default it is Mafia User",
+      "value": "@MafiaBot_Support",
+      "required": false
     },
     "ABUSE": {
-      "description": "Leave it blank if you dont want Profanity in ALEX USERBOT. Else Fill ON.",
-      "value": "",ON
-      "required": false 
+      "description": "Leave it blank if you dont want Profanity in MafiaBot. Else Fill ON.",
+      "value": "",
+      "required": false
     },    
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .alive Command.",
-      "value": "Alex-userbot Is Alive",
+      "description": "Set Custom Alive Message When entering .mafia Command.",
+      "value": "😈MAFIABOT IS ALIVE😈",
       "required": false
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .mafia command.",
-      "value": https://telegra.ph/file/bf4f026de24c344a9a79d.jpg
+      "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈PEOPLE SAYS TO CAUSTER AND OTHER USERBOTS BUT STILL THEY DONT KNOW ALEX IS THEIR DAD ",
+      "value": "😈LEGEND'S SAY'S TO MAFIABOT😈",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/bf4f026de24c344a9a79d.jpg
+      "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "PLEASE DO NOT SPAM MY DM, I WILL REPLY YOU AFTER COME BACK ONLINE! But till then dont spam here otherwise alex will fuck you ",
+      "value": "PLEASE DO NOT SPAM MY DM, I WILL REPLY YOU AFTER COME BACK ONLINE!",
       "required": false
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
-      "value": 
+      "value": "2184829"
     },
     "SUDO_USERS": {
       "description": "Enter your friends user id to to give him bot sudo access",
@@ -75,40 +75,40 @@
       "description": "Get this value from my.telegram.org! Putting Others Value May result In Account Ban.",
       "value": "6930b92388baabff4cb4a1d377085035"
     },
-    "ALEX-USERBOT--_LOGGER": {
+    "MAFIABOT_LOGGER": {
       "description": "Create a private channel/group add rose then type /id in group.",
-      "value": "
+      "value": "-1001174481876"
     },
     "STRING_SESSION": {
-      "description": "",
+      "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API.Required for updater to work.",
-      "value": "
+      "value": "22c9f205-3860-48e7-a1e5-457c15480877",
       "required": true
     },
     "HEROKU_APP_NAME": {
       "description": "The Value of App Name you filled in right on top.Required for updater to work.",
-      "value": "ALEXUSERBOT",
+      "value": "enteryourappname",
       "required": true
     },
     "TG_BOT_TOKEN_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
-      "value": "
+      "value": "1445762068:AAG_-327E_oIzta6TGGbdc6-RqePyM8fyR8"
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
-      "value": "@ALEX_USERBOTS
+      "value": "@MAFIA_PUBLIC_bot"
     },
     "HELP_PIC": {
       "description": "Put link of pic or gif to show your .help menu provider cool",
-      "value": "https://telegra.ph/file/bf4f026de24c344a9a79d.jpg",
+      "value": "https://telegra.ph/file/2ed4a8dcd1cea1b38b113.mp4",
       "required": false 
     },
     "EMOJI_IN_HELP": {
       "description": "Put here your favorite emoji to make your bot cool.",
-      "value": " ❤️",
+      "value": "⚡",
       "required": true
     },
     "PM_DATA": {

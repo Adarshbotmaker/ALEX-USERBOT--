@@ -8,13 +8,21 @@
 ![photo_2021-10-03_07-40-19](https://telegra.ph/file/f2c9399da07d7f05e90d3.jpg)
 
 
-# TᕼE OᗯᑎEᖇ ᗯOᑌᒪᗪ ᑎOT ᗷE ᖇESᑭOᑎSIᗷᒪE ᖴOᖇ ᗩᑎY KIᑎᗪ Oᖴ ᗷᗩᑎ ᗪᑌE TO TᕼE GOT YOᑌ ᑕᗩᑎ GET ᗷᗩᑎ ᗪᑌE TO ᗷOT..YOᑌ ᑕᗩᑎ OᑎᒪY  GET ᗷᗩᑎ ᗪᑌE TO ᗰISᑌSE
+# TᕼE OᗯᑎEᖇ ᗯOᑌᒪᗪ ᑎOT ᗷE ᖇESᑭOᑎSIᗷᒪE ᖴOᖇ ᗩᑎY KIᑎᗪ Oᖴ ᗷᗩN ᗪᑌE TO ᗷOT..YOᑌ ᑕᗩᑎ OᑎᒪY  GET ᗷᗩᑎ ᗪᑌE TO ᗰISᑌSE
+
+
 
 
 ʝơıŋ ơųr ʄąɱıƖყ ❤️ ( DEPLOY ) 
 
 
+
+
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Adarshbotmaker/ALEX-USERBOT--)
+
+
+
 
 
 
@@ -24,11 +32,22 @@
 
 
 
+
+
+
 𝔾𝔼𝕋 𝕊𝕋ℝ𝕀ℕ𝔾 𝔽ℝ𝕆𝕄 ℍ𝔼ℝ𝔼 👇
 
 
 
+
+
+
 [RUN ON REPL](https://replit.com/@ManishRao5/ALEX-USERBOT#main.py)
+
+
+
+
+
 
 
 🅓🅔🅥🅢 🅛🅘🅢🅣 🧑‍💻
@@ -43,12 +62,15 @@
 
 5 . υткαяѕн (¢нυтιуα ∂єν)
 
+
+
+
 OᖴᖴIᑕIᗩᒪ GᖇOᑌᑭS 
 
 [SᑌᑭᑭOᖇT](https://t.me/Alex_userbot_support)
 
 
-[ᑌᑭᗪᗩTES](https://t.me/alex_userbot
+[ᑌᑭᗪᗩTES](https://t.me/alex_userbot)
 
 
 ❤️❤️❤️❤️❤️❤️❤️

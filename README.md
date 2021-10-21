@@ -17,4 +17,4 @@ ALEX- (userbot) made by @alexuserbot_yourdad. Supported by respective hellbot ow
 # FORK AT YOUR OWN RISK
 
 
-[![RUN ON REPL](https://replit.com/@ManishRao5/ALEX-USERBOT#main.py)
+[RUN ON REPL](https://replit.com/@ManishRao5/ALEX-USERBOT#main.py)

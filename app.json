@@ -23,8 +23,8 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @H1M4N5HU0P. By default it is Mafia User",
-      "value": "@MafiaBot_Support",
+      "description": "Fill your Full name or Username like ALEX USERBOT. By default it is Mafia User",
+      "value": "ALEX USERBOT",
       "required": false
     },
     "ABUSE": {
@@ -75,7 +75,7 @@
       "description": "Get this value from my.telegram.org! Putting Others Value May result In Account Ban.",
       "value": ""
     },
-    "MAFIABOT_LOGGER": {
+    "LOGGER_ID": {
       "description": "Create a private channel/group add rose then type /id in group.",
       "value": "-"
     },

@@ -1,4 +1,4 @@
-FROM sandy1709/catuserbot:alpine
+FROM adarsh/alexbot:alpine
 
 #clonning repo 
 RUN git clone  /root/userbot

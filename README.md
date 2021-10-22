@@ -5,7 +5,7 @@
 𐀁˩Єχ βѲƬ мα∂ɛ вʏ - alexuserbot_yourdad , Ƨʋρρσятɛ∂ вʏ яɛƨρɛcтιѵɛ нɛℓℓвσт σωиɛя - @Kraken_The_Badass , αи∂ мαғια вσт σωиɛя - @H1M4N5HU0P
 ══════════════════════════════════════════
 
-![photo_2021-10-03_07-40-19](https://telegra.ph/file/f2c9399da07d7f05e90d3.jpg)
+![photo_2021-10-03_07-40-19](https://telegra.ph/file/6bde4528a349f3b60d4d2.mp4)
 ══════════════════════════════════════════
 
 # TᕼE OᗯᑎEᖇ ᗯOᑌᒪᗪ ᑎOT ᗷE ᖇESᑭOᑎSIᗷᒪE ᖴOᖇ ᗩᑎY KIᑎᗪ Oᖴ ᗷᗩN ᗪᑌE TO ᗷOT..YOᑌ ᑕᗩᑎ OᑎᒪY  GET ᗷᗩᑎ ᗪᑌE TO ᗰISᑌSE

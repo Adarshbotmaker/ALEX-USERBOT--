@@ -93,11 +93,11 @@
       "value": "enteryourappname",
       "required": true
     },
-    "TG_BOT_TOKEN_BF_HER": {
+    "YOUR BOT TOKEN": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
       "value": ""
     },
-    "TG_BOT_USER_NAME_BF_HER": {
+    "YOUR BOT USERNAME": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
       "value": "@ALEXUSERBOT"
     },

@@ -23,7 +23,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like ALEX USERBOT. By default it is Mafia User",
+      "description": "Fill your Full name or Username like ALEX USERBOT. By default it is ALEX User",
       "value": "ALEX USERBOT",
       "required": false
     },
@@ -33,12 +33,12 @@
       "required": false
     },    
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .ALIVE Command.",
+      "description": "Set Custom Alive Message When entering .alive Command.",
       "value": "😈𐌼𐀁ƧƬЄЯ 𐀁˩Єχ ƖƧ 𐀁˩ƖѴЄ 𐀁ИƉ ЯЄ𐀁ƉƳ ҒѲЯ ƬĦЄ ҒƖǤĦƬ 😈",
       "required": false
     },
     "ALIVE_PIC": {
-      "description": "Put here any telegraph media link for alive pic in .mafia command.",
+      "description": "Put here any telegraph media link for alive pic in .alive command.",
       "value": "https://telegra.ph/file/6bde4528a349f3b60d4d2.mp4",
       "required": false
     },

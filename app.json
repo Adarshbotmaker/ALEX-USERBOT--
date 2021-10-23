@@ -28,13 +28,13 @@
       "required": false
     },
     "ABUSE": {
-      "description": "Leave it blank if you dont want Profanity in MafiaBot. Else Fill ON.",
+      "description": "Leave it blank if you dont want Profanity in ALEX BOT. Else Fill ON.",
       "value": "",
       "required": false
     },    
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .mafia Command.",
-      "value": "😈MASTER ALEX IS ALIVE😈",
+      "description": "Set Custom Alive Message When entering .ALIVE Command.",
+      "value": "😈𐌼𐀁ƧƬЄЯ 𐀁˩Єχ ƖƧ 𐀁˩ƖѴЄ 𐀁ИƉ ЯЄ𐀁ƉƳ ҒѲЯ ƬĦЄ ҒƖǤĦƬ 😈",
       "required": false
     },
     "ALIVE_PIC": {
@@ -44,7 +44,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈CALL ME ALEX 🔥",
+      "value": "😈 ℂᎯℒℒ ℳℰ ᎯℒℰX 🔥",
       "required": false
     },
     "PMPERMIT_PIC": {
@@ -108,7 +108,7 @@
     },
     "EMOJI_IN_HELP": {
       "description": "Put here your favorite emoji to make your bot cool.",
-      "value": "⚡",
+      "value": "✿",
       "required": true
     },
     "PM_DATA": {

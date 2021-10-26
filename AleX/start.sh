@@ -20,4 +20,4 @@ Legendary ALEX BOT!!
 @ALEX_USERBOT
 """
 
-python3 -m userbot
+python3 -m AleX

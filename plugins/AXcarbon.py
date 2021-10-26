@@ -4,8 +4,6 @@ from carbonnow import Carbon
 
 from . import eor, get_string, inline_mention, os, ultroid_cmd
 
-
-
 # Project By AleX Userbot 
 # Specialy Credit By TeamUltroid
 
@@ -230,3 +228,5 @@ async def crbn(event):
         f"Carbonised by {inline_mention(event.sender)}",
         file=xx,
     )
+
+# Fixed

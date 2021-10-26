@@ -2,7 +2,7 @@ import random
 
 from carbonnow import Carbon
 
-from . import eor, get_string, inline_mention, os, ultroid_cmd
+from . import eor, get_string, inline_mention, os, alex_commad
 
 
 
@@ -162,7 +162,7 @@ all_col = [
 ]
 
 
-@AleX_cmd(
+@alex_commad(
     pattern="(rc|c)arbon",
 )
 async def crbn(event):
@@ -194,7 +194,7 @@ async def crbn(event):
     )
 
 
-@AleX_cmd(
+@alex_commad(
     pattern="ccarbon ?(.*)",
 )
 async def crbn(event):

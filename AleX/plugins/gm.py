@@ -1,3 +1,17 @@
+from userbot.utils import admin_cmd 
+ 
+ 
+ 
+ 
+@borg.on(admin_cmd(pattern=".gm")) 
+ 
+ 
+ 
+async def gn(event):
+ 
+ 
+ 
+    await event.edit("
 ╭━━━┳━━━┳━━━┳━━━╮
 ┃╭━╮┃╭━╮┃╭━╮┣╮╭╮┃
 ┃┃╱╰┫┃╱┃┃┃╱┃┃┃┃┃┃

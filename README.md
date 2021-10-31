@@ -10,7 +10,9 @@
 ![photo_2021-10-03_07-40-19](https://telegra.ph/file/57cdb52bcad7e6cc50462.jpg)
 ══════════════════════════════════════════
 
-# TᕼE OᗯᑎEᖇ ᗯOᑌᒪᗪ ᑎOT ᗷE ᖇESᑭOᑎSIᗷᒪE ᖴOᖇ ᗩᑎY KIᑎᗪ Oᖴ ᗷᗩN ᗪᑌE TO ᗷOT..YOᑌ ᑕᗩᑎ OᑎᒪY  GET ᗷᗩᑎ ᗪᑌE TO ᗰISᑌSE
+# TᕼE OᗯᑎEᖇ ᗯOᑌᒪᗪ ᑎOT ᗷE ᖇESᑭOᑎSIᗷᒪE ᖴOᖇ ᗩᑎY KIᑎᗪ Oᖴ ᗷᗩN ᗪᑌE TO ᗷOT..YOᑌ ᑕᗩᑎ OᑎᒪY  GET ᗷᗩᑎ ᗪᑌE TO ᗰISᑌSE 
+
+CREDIT TO - MAFIA BOT
 
 ══════════════════════════════════════════
 
